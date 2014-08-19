@@ -27,7 +27,8 @@ body {
 
 #twtimg {
     float: left;
-    margin-left: 10px;
+    margin-left: 14px;
+    padding-top: 4px;
 }
 
 #intro {
