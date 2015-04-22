@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>CS:GO trading store</title>
+        <script type="text/javascript" src="../jquery.js"></script>
+        <script type="text/javascript" src="js.js"></script>
+        <link rel="stylesheet" href="style.css"/>
+        <link rel="shortcut icon" href="iconNew.png"/>
+    </head>
+    <body>
+	<div id="sidebar">
+        <br>
+        <div id="s1" class="link">
+            <p>Home</p>
+        </div>
+        <div id="s1" class="link">
+            <p>Browse items</p>
+        </div>
+        <div id="s1" class="link">
+            <p>Browse Knifes</p>
+        </div>
+        <div id="twtr" class="link">
+            <img src="twitter.png" width="20px" id="twtimg"> <a>Twitter</a>
+        </div>
+        <div id="vline"></div>
+        <div id="s1" class="link">
+            <p>About</p>
+        </div><br>
+        <div id="s1" class="link">
+            <p>Sell us your items</p>
+        </div>
+	</div>
+    <div id="body">
+        <div id="menubar">
+<!--            <img id="button" src="button.png"/>-->
+            <a id="button">+</a>
+            <p id="titletext">CS:GO trading store</p>
+        </div>
+        <div id="mottoout">
+            <div id="motto">
+                Buy CS:GO skins, and knifes, cheeper than on the market place, sold by other users.
+            </div>
+        </div>
+        <br>
+        
+        <p id="intro">
+            All items goes here
+        </p>
+    </div>
+    <p id="credits">&copy; Erik Konijn og Mikkel Damgaard, 2015. Website version UNDER DEVELOPMENT 0.0.7</p>
+    </body>
+</html>
