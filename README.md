@@ -1,7 +1,7 @@
-tf2shop
+csgoshop
 ====
 
-tf2shop is a simple online Team Fortress 2 shop.
+csgoshop is a simple online CS:GP shop.
 
-[Go to our website!](http://mrkireko.github.io/tf2shop/)
+[Go to our website!](http://mrkireko.github.io/csgoshop/)
 
